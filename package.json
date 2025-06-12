@@ -1,0 +1,23 @@
+{
+  "name": "yasiru-kavinda-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Yasiru Kavinda - Full-Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static site ready'",
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "java",
+    "spring-boot",
+    "react"
+  ],
+  "author": "Yasiru Kavinda",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
